@@ -1,6 +1,5 @@
 # Medicare-locator-bot-based-on-RASA-
-Medicare or hospital locator bot based on RASA and RASA X tech , based on NLU and CORE and Machine Learning
-
+Medicare or hospital locator bot based on Python, RASA and RASA-X, NLU and CORE and Machine Learning
 First create Virtual of Python 3x
 In VSCode terminal: For Creating Virtual Environment
 
